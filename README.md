@@ -2,7 +2,7 @@
 
 A simple command-line based Train Ticket Booking System built using **Java**, demonstrating user registration, login, train booking, and ticket management functionalities.
 
----
+
 
 ## 🛠 Features
 
@@ -13,7 +13,7 @@ A simple command-line based Train Ticket Booking System built using **Java**, de
 - ❌ Cancel Bookings
 - 📄 User Profile Management
 
----
+
 
 ## 📂 Project Structure
 
@@ -33,7 +33,7 @@ ticketBooking-main/
 └── settings.gradle
 
 
----
+
 
 ## 🚀 How to Run
 
