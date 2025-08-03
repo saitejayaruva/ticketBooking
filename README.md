@@ -51,6 +51,8 @@ ticketBooking-main/
     ```bash
    ./gradlew run
 
+    ----
+
 1. Sign up
 2. Login
 3. View Trains
@@ -86,7 +88,7 @@ Role-based access (admin vs user)
 This project is licensed under the MIT License.
 
 👤 Author
-Saiteja Yaruva
+Saiteja Yaruva 
 Feel free to reach out or connect on LinkedIn!
 
 
